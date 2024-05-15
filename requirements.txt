@@ -1,0 +1,7 @@
+matplotlib
+pandas-datareader
+tensorflow
+scikit-learn
+yfinance
+PySide2
+asyncio
